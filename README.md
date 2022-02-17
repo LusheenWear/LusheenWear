@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LusheenWear
-- 👀 I’m interested in ... coding websited in Laravel
+- 👀 I’m interested in ... coding websites in Laravel (to expand my specialty in Databases)
 - 🌱 I’m currently learning ... Javascript
 - 💞️ I’m looking to collaborate on ... projects where I can learn
 - 📫 How to reach me ... lusheen.wear@gmail.com
